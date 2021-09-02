@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "l610_tcp.h": "c",
+        "l610_init.h": "c"
+    }
+}
